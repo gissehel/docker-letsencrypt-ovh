@@ -1,0 +1,7 @@
+# OVH API credentials used by Certbot
+dns_ovh_endpoint = ovh-eu
+dns_ovh_application_key = xxxxxxxxxxxxxxxxx
+dns_ovh_application_secret = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+dns_ovh_consumer_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+

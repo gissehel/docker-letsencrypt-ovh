@@ -1,0 +1,3 @@
+export EMAIL='some.address@email.com'
+export DOMAINS='test.example.com,test2.example.com *.example.com,example.com'
+export NGINX_CONTAINER='nginx-container-name'
